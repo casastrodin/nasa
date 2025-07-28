@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Física Básica e Astrodinâmica: Uma Jornada pelo Sistema Solar</title>
+    <title>Física Básica e Astrodinâmica: Uma Jornada pelo Sistema Solar Prof Cássio Alem</title>
     <style>
         body {
             font-family: Arial, sans-serif;
